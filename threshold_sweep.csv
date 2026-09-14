@@ -1,0 +1,6 @@
+threshold,final_state,time_s,path_length_m,straight_line_m,tortuosity,fsm_transitions,avoid_share,min_clearance_m,mean_speed_ms
+0.36,GOAL,44.35,12.406,12.021,1.032,32,0.598,0.252,0.279
+0.48,GOAL,44.05,12.347,12.021,1.027,34,0.608,0.254,0.28
+0.6,GOAL,44.25,12.314,12.021,1.024,32,0.62,0.261,0.278
+0.78,GOAL,45.2,12.262,12.021,1.02,26,0.649,0.252,0.271
+0.96,GOAL,45.2,12.218,12.021,1.016,18,0.663,0.254,0.27
